@@ -12,7 +12,7 @@
 
 ---
 
-### `juan@github:~$ whoami`
+### `cry:~$ whoami`
 
 I'm **Juan**, a Data Engineer with experience building and optimizing data pipelines, production ML inference systems, and LLM-powered solutions in the financial sector.
 
@@ -26,7 +26,7 @@ $ cat focus.txt
 > Growing into            : Data Science, NLP, applied machine learning
 ```
 
-### `juan@github:~$ ls skills/`
+### `cry:~$ ls skills/`
 
 **Data engineering & cloud**
 
@@ -52,7 +52,7 @@ $ cat focus.txt
 
 `CI/CD · OOP · Agile / Scrum · Production ML`
 
-### `juan@github:~$ cat experience.log`
+### `cry:~$ cat experience.log`
 
 **Data Engineering Solutions Development Associate I · Financial services**  
 *2024 – Present*
@@ -71,7 +71,7 @@ $ cat focus.txt
 
 > **Note:** Project descriptions are intentionally high-level to respect proprietary information.
 
-### `juan@github:~$ ls research_and_projects/`
+### `cry:~$ ls research_and_projects/`
 
 **01 / Sentiment Analysis & Polarity on Social Media** · `R` `NLP` `Data Analysis`  
 Developed a pipeline to collect, clean, and analyze unstructured social media data, classify sentiment, and visualize polarity. The methodology and results were published in a scientific article.
@@ -81,7 +81,7 @@ Implemented an evolutionary algorithm from scratch for mathematical function opt
 
 <!-- Add verified public links to the publication and project repositories here. -->
 
-### `juan@github:~$ cat learning_path.md`
+### `cry:~$ cat learning_path.md`
 
 - 🎓 **B.Eng. in Intelligent Systems**, UAEMex (2018–2024)
 - 📚 **Data Science Diploma**, FES Acatlán — in progress
@@ -90,7 +90,7 @@ Implemented an evolutionary algorithm from scratch for mathematical function opt
 - 🏅 **Hadoop 101**, IBM (2023)
 - 🏅 **Certified Scrum Developer**, ScrumStudy (2024)
 
-### `juan@github:~$ contact --open`
+### `cry:~$ contact --open`
  
 🔗 **LinkedIn:** linkedin.com/in/jfuentessdy/
 
